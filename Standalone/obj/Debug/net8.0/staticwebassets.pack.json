@@ -1,307 +1,307 @@
 {
   "Files": [
     {
-      "Id": "E:\\Standalone\\Standalone\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Standalone.bundle.scp.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Standalone.bundle.scp.css",
       "PackagePath": "staticwebassets\\Standalone.bundle.scp.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\css\\bootstrap-datetimepicker.min.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\css\\bootstrap-datetimepicker.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-datetimepicker.min.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\css\\bootstrap-select.min.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\css\\bootstrap-select.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap-select.min.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\css\\bootstrapValidator.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\css\\bootstrapValidator.css",
       "PackagePath": "staticwebassets\\css\\bootstrapValidator.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\css\\font-awesome.min.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\css\\site.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\css\\style.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\favicon.ico",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\js\\bootstrap-datetimepicker.min.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\js\\bootstrap-datetimepicker.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap-datetimepicker.min.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\js\\bootstrap-select.min.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\js\\bootstrap-select.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap-select.min.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\js\\bootstrapValidator.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\js\\bootstrapValidator.js",
       "PackagePath": "staticwebassets\\js\\bootstrapValidator.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\js\\domain_data.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\js\\domain_data.js",
       "PackagePath": "staticwebassets\\js\\domain_data.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\js\\jquery-3.4.1.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\js\\jquery-migrate-3.1.0.min.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\js\\jquery-migrate-3.1.0.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-migrate-3.1.0.min.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\js\\jquery.min.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.min.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\js\\moment.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\js\\moment.js",
       "PackagePath": "staticwebassets\\js\\moment.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\js\\site.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

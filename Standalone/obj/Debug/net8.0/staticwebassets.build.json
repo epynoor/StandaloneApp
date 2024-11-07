@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TojV7YcjIB3Ec4WxZE3MNXWNR12pKoETJWHRIawNumc=",
+  "Hash": "ykhQFOe56UF8RswEuwJZXnqKRFaqrDt+XY8KNuWzJuI=",
   "Source": "Standalone",
   "BasePath": "_content/Standalone",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Standalone\\wwwroot",
       "Source": "Standalone",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\Standalone\\Standalone\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Standalone.styles.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Standalone.styles.css",
       "SourceId": "Standalone",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Standalone\\Standalone\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "Standalone.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Standalone\\Standalone\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Standalone.styles.css"
+      "OriginalItemSpec": "E:\\StandaloneApp\\Standalone\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Standalone.styles.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Standalone.bundle.scp.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Standalone.bundle.scp.css",
       "SourceId": "Standalone",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Standalone\\Standalone\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "Standalone.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Standalone\\Standalone\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Standalone.bundle.scp.css"
+      "OriginalItemSpec": "E:\\StandaloneApp\\Standalone\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Standalone.bundle.scp.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\css\\bootstrap-datetimepicker.min.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\css\\bootstrap-datetimepicker.min.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "css/bootstrap-datetimepicker.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-datetimepicker.min.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\css\\bootstrap-select.min.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\css\\bootstrap-select.min.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "css/bootstrap-select.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap-select.min.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\css\\bootstrapValidator.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\css\\bootstrapValidator.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "css/bootstrapValidator.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrapValidator.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\css\\site.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\css\\site.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\css\\style.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\css\\style.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\favicon.ico",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\favicon.ico",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\js\\bootstrap-datetimepicker.min.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\js\\bootstrap-datetimepicker.min.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "js/bootstrap-datetimepicker.min.js",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap-datetimepicker.min.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\js\\bootstrap-select.min.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\js\\bootstrap-select.min.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "js/bootstrap-select.min.js",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap-select.min.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\js\\bootstrapValidator.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\js\\bootstrapValidator.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "js/bootstrapValidator.js",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrapValidator.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\js\\domain_data.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\js\\domain_data.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "js/domain_data.js",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\js\\domain_data.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\js\\jquery.min.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\js\\jquery.min.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\js\\jquery-3.4.1.min.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "js/jquery-3.4.1.min.js",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.4.1.min.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\js\\jquery-migrate-3.1.0.min.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\js\\jquery-migrate-3.1.0.min.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "js/jquery-migrate-3.1.0.min.js",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-migrate-3.1.0.min.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\js\\moment.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\js\\moment.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "js/moment.js",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\js\\moment.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\js\\site.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\js\\site.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "E:\\Standalone\\Standalone\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "E:\\StandaloneApp\\Standalone\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Standalone",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Standalone\\Standalone\\wwwroot\\",
+      "ContentRoot": "E:\\StandaloneApp\\Standalone\\wwwroot\\",
       "BasePath": "_content/Standalone",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
