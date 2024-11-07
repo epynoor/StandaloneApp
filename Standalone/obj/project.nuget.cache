@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "17xKk0rgEKWr5ayQ8r5qxS7OgVe/F4b5QtsoA4bsFPHN/hAAhQAzvcDfjeIP2gpvRcTPhhXGzcHEZhlUgsB59g==",
+  "dgSpecHash": "t3ayae49IGFckL5o8L+kjlKf4sldtjec3i1TZsMfcgWQZwVpkpvoHbjVm1almozqHkI297jRK3tiG1Md5JxskA==",
   "success": true,
-  "projectFilePath": "E:\\Standalone\\Standalone\\Standalone.csproj",
+  "projectFilePath": "E:\\StandaloneApp\\Standalone\\Standalone.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

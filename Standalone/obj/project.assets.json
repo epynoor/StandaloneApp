@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Standalone\\Standalone\\Standalone.csproj",
+      "projectUniqueName": "E:\\StandaloneApp\\Standalone\\Standalone.csproj",
       "projectName": "Standalone",
-      "projectPath": "E:\\Standalone\\Standalone\\Standalone.csproj",
+      "projectPath": "E:\\StandaloneApp\\Standalone\\Standalone.csproj",
       "packagesPath": "C:\\Users\\noor.alam\\.nuget\\packages\\",
-      "outputPath": "E:\\Standalone\\Standalone\\obj\\",
+      "outputPath": "E:\\StandaloneApp\\Standalone\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
