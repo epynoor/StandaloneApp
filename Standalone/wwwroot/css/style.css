@@ -1,0 +1,63 @@
+@charset "utf-8";body{color:#000;font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;font-size:11px;line-height:1.42857;padding-top:50px;padding-bottom:20px;}
+.header{padding:20px;height:140px;}
+.main-content{padding:20px;width:40%;}
+.center-block-new{display:block;margin-left:auto;margin-right:auto;width:50%;}
+.center-block-check-inquiry{display:block;margin-left:auto;margin-right:auto;width:80%;}
+.password-reset{width:55%;}
+.footer{padding-top:200px;height:300px;text-align:center;}
+.toppad{padding-top:50px;}
+.bg-white{background-color:#ffffff;}
+.hr-bg{border-color:#3071A9;}
+.nav-top-padding{padding-top:6px;}
+.bottom-space{padding-bottom:6px;}
+.nav>li>a:hover{background-color:#0b5073;color:#fff;}
+.nav>li>a:visited{background-color:#428bca;color:#fff;}
+.nav-tabs>li>a{background-color:#666;border-color:#777777;color:#fff;}
+.nav-tabs>li.active>a,.nav-tabs>li.active>a:hover,.nav-tabs>li.active>a:focus{color:#fff;background-color:#0b5073;border:1px solid #888888;}
+.nav-tabs>li>a:hover{border-color:#000000;background-color:#111111;}
+.nav > li > a:hover, .nav > li > a:focus{background-color:#0b5073;text-decoration:none;}
+.required:after{content:" * ";color:red;}
+.navbar-custom{background-color:#0a6d9e;border-color:#08577f;background-image:-webkit-gradient(linear, left 0%, left 100%, from(#0d8ece),
+to(#0a6d9e));background-image:-webkit-linear-gradient(top, #0d8ece, 0%, #0a6d9e, 100%);background-image:-moz-linear-gradient(top, #0d8ece 0%, #0a6d9e 100%);background-image:linear-gradient(to bottom, #0d8ece 0%, #0a6d9e 100%);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0d8ece',
+endColorstr='#ff0a6d9e', GradientType=0);}
+.navbar-custom .navbar-brand{color:#ffffff;}
+.navbar-custom .nav>li>a.bg-primary{background-color:#0b5073;color:#fff;}
+.navbar-custom a{color:#ffffff;}
+.navbar-custom>li>a.bg-primary{background-color:#0a425e;color:#fff;}
+.navbar-custom .navbar-brand:hover,.navbar-custom .navbar-brand:focus{color:#e6e6e6;background-color:transparent;}
+.navbar-custom .navbar-text{color:#ffffff;}
+.navbar-custom .navbar-nav>li:last-child>a{border-right:1px solid #08577f;}
+.navbar-custom .navbar-nav>li>a{color:#ffffff;border-left:1px solid #08577f;}
+.navbar-custom .navbar-nav>li>a:hover,.navbar-custom .navbar-nav>li>a:focus{color:#e8830d;background-color:transparent;}
+.navbar-custom .navbar-nav>.active>a,.navbar-custom .navbar-nav>.active>a:hover,.navbar-custom .navbar-nav>.active>a:focus{color:#e8830d;background-color:#08577f;background-image:-webkit-gradient(linear, left 0%, left 100%, from(#08577f),
+to(#0b79af));background-image:-webkit-linear-gradient(top, #08577f, 0%, #0b79af, 100%);background-image:-moz-linear-gradient(top, #08577f 0%, #0b79af 100%);background-image:linear-gradient(to bottom, #08577f 0%, #0b79af 100%);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff08577f',
+endColorstr='#ff0b79af', GradientType=0);}
+.navbar-custom .navbar-nav>.disabled>a,.navbar-custom .navbar-nav>.disabled>a:hover,.navbar-custom .navbar-nav>.disabled>a:focus{color:#cccccc;background-color:transparent;}
+.navbar-custom .navbar-toggle{border-color:#dddddd;}
+.navbar-custom .navbar-toggle:hover,.navbar-custom .navbar-toggle:focus{background-color:#dddddd;}
+.navbar-custom .navbar-toggle .icon-bar{background-color:#cccccc;}
+.navbar-custom .navbar-collapse,.navbar-custom .navbar-form{border-color:#08567c;}
+.navbar-custom .navbar-nav>.dropdown>a:hover .caret,.navbar-custom .navbar-nav>.dropdown>a:focus .caret{border-top-color:#e8830d;border-bottom-color:#e8830d;}
+.navbar-custom .navbar-nav>.open>a,.navbar-custom .navbar-nav>.open>a:hover,.navbar-custom .navbar-nav>.open>a:focus{background-color:#08577f;color:#e8830d;}
+.navbar-custom .navbar-nav>.open>a .caret,.navbar-custom .navbar-nav>.open>a:hover .caret,.navbar-custom .navbar-nav>.open>a:focus .caret{border-top-color:#e8830d;border-bottom-color:#e8830d;}
+.navbar-custom .navbar-nav>.dropdown>a .caret{border-top-color:#ffffff;border-bottom-color:#ffffff;}
+@media (max-width:767){.navbar-custom .navbar-nav .open .dropdown-menu>li>a{color:#ffffff;}
+.navbar-custom .navbar-nav .open .dropdown-menu>li>a:hover,.navbar-custom .navbar-nav .open .dropdown-menu>li>a:focus{color:#e8830d;background-color:transparent;}
+.navbar-custom .navbar-nav .open .dropdown-menu>.active>a,.navbar-custom .navbar-nav .open .dropdown-menu>.active>a:hover,.navbar-custom .navbar-nav .open .dropdown-menu>.active>a:focus{color:#e8830d;background-color:#08577f;}
+.navbar-custom .navbar-nav .open .dropdown-menu>.disabled>a,.navbar-custom .navbar-nav .open .dropdown-menu>.disabled>a:hover,.navbar-custom .navbar-nav .open .dropdown-menu>.disabled>a:focus{color:#cccccc;background-color:transparent;}
+}
+.navbar-custom .navbar-link{color:#ffffff;}
+.navbar-custom .navbar-link:hover{color:#e8830d;}
+.contract_area{border:2px solid #0B5073;}
+.add_bottom_border{border-bottom:2px solid #0B5073;}
+.add_left_border{border-left:2px solid #0B5073 !important;}
+.add_top_border{border-top:2px solid #0B5073;}
+.content_title{background-color:#A9DBF2 !important;border-bottom:1px solid #0B5073;color:#000;font-weight:bold;}
+.alert-white{background-color:#fff;border-color:#fff;color:#fff;}
+.table>thead>tr>td.active_summery_title,.table>tbody>tr>td.active_summery_title,.table>tfoot>tr>td.active_summery_title,.table>thead>tr>th.active_summery_title,.table>tbody>tr>th.active_summery_title,.table>tfoot>tr>th.active_summery_title,.table>thead>tr.active_summery_title>td,.table>tbody>tr.active_summery_title>td,.table>tfoot>tr.active_summery_title>td,.table>thead>tr.active_summery_title>th,.table>tbody>tr.active_summery_title>th,.table>tfoot>tr.active_summery_title>th{background-color:#A9DBF2 !important;border:1px solid #0B5073;}
+
+a {color: #0000ff;text-decoration: none;}
+a:hover,a:focus {color: #1A35D5;text-decoration: underline;}
+a:focus {outline: thin dotted;outline: 5px auto -webkit-focus-ring-color;outline-offset: -2px;}
+
+@media print{body{font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;font-size:15px !important;background-image: url("http://cib.bb.org.bd/assets/images/warning.png") !important}

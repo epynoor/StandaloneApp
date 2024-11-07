@@ -1,0 +1,103 @@
+﻿@model POViewModel
+
+@* @{
+    ViewData["Title"] = "PO Details";
+} *@
+
+@* <div class="text-center">
+    <h4>Purchase Order Details</h4><br /><br />
+
+    <p><strong>PO Number:</strong> @Model.PONo</p>
+    <p><strong>PO Date:</strong> @Model.PODate</p>
+    <p><strong>Supplier Name:</strong> @Model.SupplierName</p>
+    <p><strong>Charges:</strong> @Model.Charges</p>
+    <p><strong>Port of Loading:</strong> @Model.PortofLoading</p>
+    <p><strong>Port of Discharge:</strong> @Model.PortofDischarge</p>
+    <p><strong>Shipment Mode:</strong> @Model.ShipmentMode</p>
+    <p><strong>Country of Origin:</strong> @Model.CountryOfOrigin</p>
+</div> *@
+
+<P style="text-align:center;font-size:20px;font-weight:bold"> Purchase Order Details</P>
+<br />
+<div class="row">
+	<div class="col-sm-4">
+		<div class="form-group">
+			<label for="title" class="col-sm-3 control-label">PO Number</label>
+			<div class="col-sm-9">
+				<input type="text" name="main_address_post_code" asp-for="PONo" readonly  class="form-control" size="50" />
+			</div>
+		</div>
+	</div>
+	<div class="col-sm-4">
+		<div class="form-group">
+			<label for="title" class="col-sm-3 control-label">PO Date</label>
+			<div class="col-sm-9">
+				<input type="text" name="main_address_post_code" asp-for="PODate" readonly class="form-control" size="50" />
+			</div>
+		</div>
+	</div>
+	<div class="col-sm-4">
+		<div class="form-group">
+			<label for="title" class="col-sm-3 control-label">Supplier Name</label>
+			<div class="col-sm-9">
+				<input type="text" name="main_address_post_code" asp-for="SupplierName" readonly class="form-control" size="50" />
+			</div>
+		</div>
+	</div>
+</div>
+<br />
+
+<div class="row">
+	<div class="col-sm-4">
+		<div class="form-group">
+			<label for="title" class="col-sm-3 control-label">Charges</label>
+			<div class="col-sm-9">
+				<input type="text" name="main_address_post_code" asp-for="Charges" readonly class="form-control" size="50" />
+			</div>
+		</div>
+	</div>
+
+	<div class="col-sm-4">
+		<div class="form-group">
+			<label for="title" class="col-sm-3 control-label">Port of Loading</label>
+			<div class="col-sm-9">
+				<input type="text" name="main_address_post_code" asp-for="PortofLoading" readonly class="form-control" size="50" />
+			</div>
+		</div>
+	</div>
+	<div class="col-sm-4">
+		<div class="form-group">
+			<label for="title" class="col-sm-3 control-label">Port of Discharge</label>
+			<div class="col-sm-9">
+				<input type="text" name="main_address_post_code" asp-for="PortofDischarge" readonly class="form-control" size="50" />
+			</div>
+		</div>
+	</div>
+
+</div>
+<br />
+
+<div class="row">
+	<div class="col-sm-4">
+		<div class="form-group">
+			<label for="title" class="col-sm-3 control-label">Shipment Mode</label>
+			<div class="col-sm-9">
+				<input type="text" name="main_address_post_code" asp-for="ShipmentMode" readonly class="form-control" size="50" />
+			</div>
+		</div>
+	</div>
+
+	<div class="col-sm-4">
+		<div class="form-group">
+			<label for="title" class="col-sm-3 control-label">Country of Origin</label>
+			<div class="col-sm-9">
+				<input type="text" name="main_address_post_code" asp-for="CountryOfOrigin" readonly class="form-control" size="50" />
+			</div>
+		</div>
+	</div>
+	
+
+</div>
+<br />
+<button onclick="window.location.href='download.html'" disabled type="button" name="individual_new_inquiry" class="btn btn-primary center-block">
+	<span class="glyphicon glyphicon-search"></span> Download PDF
